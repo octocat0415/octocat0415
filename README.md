@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Result-oriented%20Software%20Engineer;7%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Result-oriented%20Software%20Developer;7%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
 </p>
 
 # 💫 About Me:
