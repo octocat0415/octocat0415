@@ -1,5 +1,5 @@
 # 💫 About Me:
-My primary focus is on Web and Blockchain development and I am interested in mobile development. I have been working for the last 7 years as a software engineer. What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design. I am keen on writing clean and reusable code using best practices.
+My primary focus is on Web and Mobile development and I am interested in blockchain development. I have been working for the last 7 years as a software engineer. What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design. I am keen on writing clean and reusable code using best practices.
 
 
 # 💻 Tech Stack:
